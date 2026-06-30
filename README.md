@@ -38,6 +38,8 @@ CloudSite-Automator/
 │
 ├── main.py
 ├── README.md
+
+
 ⚙️ Setup Instructions
 1️⃣ Clone Repository
 git clone https://github.com/your-username/CloudSite-Automator.git
@@ -62,7 +64,7 @@ python main.py
 
 After successful execution, you will get a live website URL like:
 
-http://your-bucket-name.s3-website.ap-south-1.amazonaws.com
+http://my-cloudsite-automator-12345.s3-website.ap-south-1.amazonaws.com
 
 
 🧠 How It Works
